@@ -17,7 +17,6 @@ http://www.ign.com
 http://www.imdb.com
 http://www.instagram.com
 http://www.lifehacker.com
-http://www.neogaf.com
 http://www.netflix.com
 http://www.news.google.com
 http://www.paypal.com
